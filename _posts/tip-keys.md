@@ -1,3 +1,10 @@
+---
+layout: post
+title: Ubuntu
+tags: [frontpage, jekyll, blog]
+
+---
+
 谷歌浏览器的一些常用快捷键：
 
 - Ctrl + d ：添加当前页面到书签
@@ -14,3 +21,4 @@
 - F6       ：选择网址
 - Ctrl + h：历史记录
 - Ctrl + j ：下载记录  
+
